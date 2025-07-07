@@ -13,6 +13,5 @@ def lancer_rickbot():
             reponse = repondre(question)
             print("🧠 RickBot : ", reponse)
 
-
 if __name__ == "__main__":
     lancer_rickbot()
