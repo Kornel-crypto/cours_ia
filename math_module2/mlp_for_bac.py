@@ -89,3 +89,4 @@ print(f"\n--- Poids mis à jour ---")
 print(f"w1_out     : {w1_out:.4f}")
 print(f"w2_out     : {w2_out:.4f}")
 print(f"b_out      : {b_out:.4f}")
+

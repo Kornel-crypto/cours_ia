@@ -1,7 +1,7 @@
 # logique de RickBot
 import random # On importe la fonctionnalite random
 import memoire
-
+    
 commande = [
     "salut / yo / hello",
     "portail",
@@ -12,7 +12,7 @@ commande = [
     "aide",
     "secret rick"
 ]
-
+    
 def repondre(message):
     msg = message.lower()
     
@@ -40,3 +40,4 @@ if __name__ == "__main__":
     print(repondre("SALUT rick"))
     print(repondre("gaule moi le pistolet portail"))
     print(repondre("comment ça vas"))
+    
